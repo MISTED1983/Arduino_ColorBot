@@ -1,5 +1,7 @@
 # Arduino_ColorBot_Python
 Purple ColorBot
+I recommend spoofing your Arduino in some sort of way.
+
 
 - X SPEED
 - Y SPEED
