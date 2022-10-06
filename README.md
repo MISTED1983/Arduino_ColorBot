@@ -3,6 +3,7 @@ Purple ColorBot
 
 - X SPEED
 - Y SPEED
+- FOV
 - HEAD OFFSET
 - AIMASSIST
 
