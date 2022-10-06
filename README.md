@@ -8,7 +8,7 @@ I recommend spoofing your Arduino in some sort of way.
 - Y SPEED
 - FOV
 - HEAD OFFSET
-- AIMASSIST
+- AIMASSIST (RMB)
 
 Requirements:
 - https://www.python.org/downloads/
