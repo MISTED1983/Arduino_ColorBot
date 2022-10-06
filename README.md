@@ -7,7 +7,7 @@ Purple ColorBot
 - HEAD OFFSET
 - AIMASSIST
 
-Requirement:
+Requirements:
 - https://www.python.org/downloads/
 - https://www.arduino.cc/
 - Arduino leonardo
