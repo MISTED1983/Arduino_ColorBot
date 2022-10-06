@@ -1,4 +1,4 @@
-# Arduino_ColorBot
+# Arduino_ColorBot_Python
 Purple ColorBot
 
 - X SPEED
